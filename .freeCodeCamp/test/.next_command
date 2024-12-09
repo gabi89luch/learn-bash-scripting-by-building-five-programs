@@ -100,3 +100,6 @@ sh questionaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+./questionaire.sh
+./questionaire.sh
+./questionnaire.sh
