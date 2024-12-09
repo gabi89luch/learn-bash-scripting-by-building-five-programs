@@ -96,3 +96,5 @@ echo hello bash
 touch questionnaire.sh
 echo hello questionnaire
 echo hello questionnaire > questionnaire.sh
+sh questionaire.sh
+sh questionnaire.sh
