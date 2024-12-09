@@ -94,3 +94,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo bash hello
 echo hello bash
 touch questionnaire.sh
+echo hello questionnaire
+echo hello questionnaire > questionnaire.sh
