@@ -103,3 +103,4 @@ which bash
 ./questionaire.sh
 ./questionaire.sh
 ./questionnaire.sh
+ls --color=auto -l
