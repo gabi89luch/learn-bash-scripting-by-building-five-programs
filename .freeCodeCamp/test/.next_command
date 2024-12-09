@@ -98,3 +98,4 @@ echo hello questionnaire
 echo hello questionnaire > questionnaire.sh
 sh questionaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
