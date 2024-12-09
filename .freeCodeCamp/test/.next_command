@@ -112,3 +112,4 @@ chmod -x questionnaire.sh
 chmod +x questionnaire.sh
 ls --color=auto -l
 ./questionnaire.sh
+ls --color=auto -l
